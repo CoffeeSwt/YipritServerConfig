@@ -1,0 +1,30 @@
+{
+    "WeightRestrictionsHandlerIsActive": 1,
+    "WeakSlowdownIfLoadGreaterThanKg": 20.0,
+    "MediumSlowdownIfLoadGreaterThanKg": 35.0,
+    "StrongSlowdownIfLoadGreaterThanKg": 50.0,
+    "ExtremeSlowdownIfLoadGreaterThanKg": 60.0,
+    "ForcedWalkIfLoadGreaterThanKg": 70.0,
+    "MovementRestrictionIfLoadGreaterThanKg": 100.0,
+    "SlopeRestrictionsHandlerIsActive": 1,
+    "WeakSlowdownIfSlopeGreaterThanDegree": 8.0,
+    "MediumSlowdownIfSlopeGreaterThanDegree": 16.0,
+    "StrongSlowdownIfSlopeGreaterThanDegree": 24.0,
+    "ExtremeSlowdownIfSlopeGreaterThanDegree": 32.0,
+    "SurfaceRestrictionsHandlerIsActive": 1,
+    "SurfaceRoadSpeedReduction": 0,
+    "SurfaceGrassSpeedReduction": 0,
+    "SurfaceGrassTallSpeedReduction": 1,
+    "SurfaceForestSpeedReduction": 1,
+    "SurfaceStoneSpeedReduction": 0,
+    "SurfaceSandSpeedReduction": 2,
+    "SurfaceWaterSpeedReduction": 2,
+    "SurfaceFootwearSpeedImpact": {
+        "Barefoot": -1
+    },
+    "ForcedWalkIfCharacterIsInBush": 1,
+    "BushClasses": {},
+    "CumulativeSpeedReductionIsActive": 1,
+    "SyberiaProjectStrengthImpactFrom": 0.8999999761581421,
+    "SyberiaProjectStrengthImpactTo": 1.2999999523162842
+}

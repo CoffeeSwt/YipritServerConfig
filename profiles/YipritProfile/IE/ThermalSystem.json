@@ -1,0 +1,45 @@
+{
+    "version": 7,
+    "log_level": 2,
+    "clothing_has_temperature": 1,
+    "edibles_have_temperature": 1,
+    "items_with_greater_water_content_freeze": 0.10000000149011612,
+    "water_well_temperature": 5.0,
+    "frozen_edibles_decay": 0,
+    "hot_edibles_hurt": 1,
+    "edibles_affect_heat_buffer": 1,
+    "skinning_item_temperature": 30.0,
+    "fishing_item_temperature": 5.0,
+    "spurious_item_weight_replacement": 250.0,
+    "player_comfort_temp_low": 20.0,
+    "player_comfort_temp_hi": 35.0,
+    "item_temp_effect_on_player": 60.0,
+    "thermal_conductivity_rate": 1.0,
+    "items_affect_player_temperature": 1,
+    "inventory_items_thermal_vehavior": 1,
+    "heat_capacities": [
+        {
+            "item": "Clothing",
+            "heat_capacity": 1.5,
+            "thermal_conductivity": 0.699999988079071
+        },
+        {
+            "item": "Edible_Base",
+            "heat_capacity": 2.9800000190734865,
+            "thermal_conductivity": 0.5989999771118164
+        },
+        {
+            "item": "Heatpack",
+            "heat_capacity": 5.0,
+            "thermal_conductivity": 0.6000000238418579
+        },
+        {
+            "item": "Object",
+            "heat_capacity": 1.0119999647140504,
+            "thermal_conductivity": 0.025350000709295274
+        }
+    ],
+    "forced_affects_comfort": [
+        "Heatpack"
+    ]
+}
