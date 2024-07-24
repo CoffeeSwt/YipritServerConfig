@@ -36,6 +36,9 @@ DayZServer_x64.exe
 /mpmissions/hardcore.namalsk/storage_0/
 /mpmissions/dayzOffline.Yiprit/storage_1/
 /mpmissions/dayzOffline.Yiprit/storage_0/
+/mpmissions/empty.Iztek/storage_1/
+/mpmissions/empty.Iztek/storage_0/
+
 
 
 .idea/.gitignore
