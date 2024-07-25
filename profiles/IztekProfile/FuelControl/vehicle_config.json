@@ -1,0 +1,35 @@
+{
+    "version": 2,
+    "vehicles": [
+        {
+            "vehicle_type": "CivilianSedan",
+            "autonomy": 25.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "Hatchback_02",
+            "autonomy": 25.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "OffroadHatchback",
+            "autonomy": 25.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "Sedan_02",
+            "autonomy": 25.0,
+            "fuel_type": "GASOLINE"
+        },
+        {
+            "vehicle_type": "Truck_01_Covered",
+            "autonomy": 25.0,
+            "fuel_type": "DIESEL"
+        },
+        {
+            "vehicle_type": "Offroad_02",
+            "autonomy": 25.0,
+            "fuel_type": "DIESEL"
+        }
+    ]
+}

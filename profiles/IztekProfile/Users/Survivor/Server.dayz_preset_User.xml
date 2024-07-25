@@ -894,8 +894,8 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
-    <input name="UABetterInspect">
-        <btn name="kB" />
+    <input name="UAOfferRequestItem">
+        <btn name="kO" />
     </input>
     <input name="UACOTModuleToggleCOT">
         <btn name="kEnd" />
@@ -997,6 +997,18 @@
         <btn name="kRMenu">
             <btn name="kN" />
         </btn>
+    </input>
+    <input name="UAToggleBipod">
+        <btn name="kT" />
+    </input>
+    <input name="UAToggleMagni">
+        <btn name="kI" />
+    </input>
+    <input name="UAOpenVPPMap">
+        <btn name="kM" />
+    </input>
+    <input name="UAToggleVPPMap3DMarkers">
+        <btn name="kK" />
     </input>
     <input name="UATogglePlayerControls">
         <btn name="kSpace" />

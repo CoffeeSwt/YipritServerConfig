@@ -3,3 +3,4 @@ const modList = utils.getModsList();
 const modListString = `${modList.join(";")};`;
 
 console.log(modListString);
+console.log(modList.length)

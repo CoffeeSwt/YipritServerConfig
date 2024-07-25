@@ -4,6 +4,26 @@
 	<!-- a=90 is east ish-->
 	<!-- a=180 is south ish-->
 	<!-- a=270 is west ish-->
+	<!-- EXPANSION CARS -->
+	<event name="VehicleUAZ">
+    </event>
+	<event name="VehicleVodnik">
+    </event>
+	<event name="VehicleBus">
+	</event>
+	<event name="VehicleTractor">
+	</event>
+	<event name="VehicleLandRover">
+	</event>
+	<!-- EXPANSION HELICOPTERS -->
+	<event name="VehicleMH6Helicopter">
+	</event>
+	<event name="VehicleMerlinHelicopter">
+	</event>
+	<event name="VehicleUh1hHelicopter">
+	</event>
+	<event name="VehicleGyroHelicopter">
+	</event>
 
 	<event name="TreasureMap">
 		<pos x="3527.3" z="2628.73" a="90"/>

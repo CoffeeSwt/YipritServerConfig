@@ -1,6 +1,9 @@
 Actions 0
 Actions.QuickActions 0
 Admin 0
+Admin.FuelControl 0
+Admin.FuelControl.Edit 0
+Admin.FuelControl.View 0
 Admin.Map 0
 Admin.Map.Players 0
 Admin.Map.View 0
