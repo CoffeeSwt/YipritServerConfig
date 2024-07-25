@@ -61,3 +61,5 @@ const mergeKeyFile = () => {
   });
 };
 mergeKeyFile();
+
+module.exports = { getModsList };
