@@ -1,0 +1,551 @@
+{
+    "Types": [
+        "ALL",
+        "BigMilitary",
+        "Camp",
+        "Capital",
+        "City",
+        "Hill",
+        "Local",
+        "Marine",
+        "MediumMilitary",
+        "RockArea",
+        "Ruin",
+        "SmallMilitary",
+        "VegetationFir",
+        "ViewPoint",
+        "Village"
+    ],
+    "Locations": [
+        {
+            "Type": "City",
+            "Name": "Anitova",
+            "Position": [
+                3528.02001953125,
+                0.0,
+                2896.489990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Arika Bridge",
+            "Position": [
+                4776.14013671875,
+                0.0,
+                6543.47021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Capital",
+            "Name": "Arkada Island",
+            "Position": [
+                1128.75,
+                0.0,
+                7093.18994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Ruin",
+            "Name": "Arkadia Castle",
+            "Position": [
+                962.4199829101563,
+                0.0,
+                6937.16015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Capital",
+            "Name": "Azak",
+            "Position": [
+                6420.02001953125,
+                0.0,
+                3687.56005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "SmallMilitary",
+            "Name": "Azak Military Compound",
+            "Position": [
+                5466.06005859375,
+                0.0,
+                3844.9599609375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Azak Port & Ind.",
+            "Position": [
+                6611.27001953125,
+                0.0,
+                3763.580078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Belovo",
+            "Position": [
+                2766.72998046875,
+                0.0,
+                7014.81982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Borisovo",
+            "Position": [
+                5323.27978515625,
+                0.0,
+                1113.8800048828126
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "SmallMilitary",
+            "Name": "CP-14",
+            "Position": [
+                3113.969970703125,
+                0.0,
+                2897.169921875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "SmallMilitary",
+            "Name": "CP-81",
+            "Position": [
+                5644.10986328125,
+                0.0,
+                6337.93017578125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Camp Hawk",
+            "Position": [
+                3263.31005859375,
+                0.0,
+                6973.81982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Camp Lara",
+            "Position": [
+                2975.719970703125,
+                0.0,
+                1399.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Camp Loisant",
+            "Position": [
+                2936.360107421875,
+                0.0,
+                4593.02978515625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Camp",
+            "Name": "Camp Senjan",
+            "Position": [
+                4392.830078125,
+                0.0,
+                3172.389892578125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Ciano Rok",
+            "Position": [
+                2607.419921875,
+                0.0,
+                4010.929931640625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Dashina",
+            "Position": [
+                2399.0,
+                0.0,
+                2184.570068359375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Drezna",
+            "Position": [
+                5281.0,
+                0.0,
+                5258.33984375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "VegetationFir",
+            "Name": "Fortuda",
+            "Position": [
+                3169.860107421875,
+                0.0,
+                6327.18994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "SmallMilitary",
+            "Name": "Goraz",
+            "Position": [
+                1217.4200439453126,
+                0.0,
+                7265.81005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "BigMilitary",
+            "Name": "Karosie Airstrip",
+            "Position": [
+                3524.68994140625,
+                0.0,
+                5324.66015625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Kezmans Rock",
+            "Position": [
+                4460.419921875,
+                0.0,
+                6206.60986328125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Ruin",
+            "Name": "Loisant Castle",
+            "Position": [
+                2713.77001953125,
+                0.0,
+                4457.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Capital",
+            "Name": "MT. Iztek",
+            "Position": [
+                4858.419921875,
+                0.0,
+                6053.580078125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Melingrad",
+            "Position": [
+                2627.800048828125,
+                0.0,
+                5303.18994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Mezko Field",
+            "Position": [
+                6607.66015625,
+                0.0,
+                5286.22998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Midroc",
+            "Position": [
+                5639.47998046875,
+                0.0,
+                2600.22998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Hill",
+            "Name": "Nathans Peak",
+            "Position": [
+                5496.02001953125,
+                0.0,
+                4045.06005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Novinka",
+            "Position": [
+                6259.080078125,
+                0.0,
+                1974.8900146484376
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Odinokiy Ostrov",
+            "Position": [
+                7078.89990234375,
+                0.0,
+                6649.009765625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Old Emenka Airfield",
+            "Position": [
+                7219.41015625,
+                0.0,
+                5254.47021484375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Ozerki",
+            "Position": [
+                5798.89013671875,
+                0.0,
+                5748.8798828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Pilava",
+            "Position": [
+                5363.18994140625,
+                0.0,
+                3296.989990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Podznak",
+            "Position": [
+                4569.669921875,
+                0.0,
+                2560.56005859375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "MediumMilitary",
+            "Name": "Radar Base North",
+            "Position": [
+                4807.919921875,
+                0.0,
+                6998.93994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Radio Kaz",
+            "Position": [
+                6295.419921875,
+                0.0,
+                3518.8701171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "RockArea",
+            "Name": "Rokki Rok",
+            "Position": [
+                2278.580078125,
+                0.0,
+                3667.820068359375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "ViewPoint",
+            "Name": "Rozka",
+            "Position": [
+                772.0,
+                0.0,
+                4758.31982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Rozkaty",
+            "Position": [
+                1273.5400390625,
+                0.0,
+                5115.990234375
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Saka",
+            "Position": [
+                3976.52001953125,
+                0.0,
+                756.5499877929688
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Selina",
+            "Position": [
+                6665.27978515625,
+                0.0,
+                883.1500244140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Senjan River",
+            "Position": [
+                4725.58984375,
+                0.0,
+                3416.590087890625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Shipwreck Skora",
+            "Position": [
+                6185.02978515625,
+                0.0,
+                7778.43994140625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Spod",
+            "Position": [
+                1763.52001953125,
+                0.0,
+                4991.06982421875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Svenzbiya Lake",
+            "Position": [
+                5853.97021484375,
+                0.0,
+                4384.5400390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Tabory",
+            "Position": [
+                4768.68994140625,
+                0.0,
+                3112.1298828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Marine",
+            "Name": "Tana Beach",
+            "Position": [
+                5056.31005859375,
+                0.0,
+                646.47998046875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "City",
+            "Name": "Tavaruk",
+            "Position": [
+                6811.169921875,
+                0.0,
+                1509.1600341796876
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "SmallMilitary",
+            "Name": "Tuva 41",
+            "Position": [
+                4201.2001953125,
+                0.0,
+                2339.949951171875
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Village",
+            "Name": "Viska",
+            "Position": [
+                4077.06005859375,
+                0.0,
+                1460.2900390625
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Vizhai Prison",
+            "Position": [
+                992.8800048828125,
+                0.0,
+                3713.300048828125
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Volkovo Islands",
+            "Position": [
+                3027.080078125,
+                0.0,
+                7134.5
+            ],
+            "Radius": 4.0
+        },
+        {
+            "Type": "Local",
+            "Name": "Zenigrad",
+            "Position": [
+                3392.139892578125,
+                0.0,
+                2230.280029296875
+            ],
+            "Radius": 4.0
+        }
+    ]
+}
