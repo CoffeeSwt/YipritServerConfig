@@ -468,9 +468,6 @@
     </type>
 	<!--Lore END-->
 	
-	
-	
-	
 	<!--Misc-->
 	<type name="Land_AuroraVial">
         <nominal>8</nominal>
@@ -510,10 +507,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="Iztek_Map">
-        <nominal>18</nominal>
+        <nominal>40</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>30</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

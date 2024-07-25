@@ -25,6 +25,49 @@
 	<event name="VehicleGyroHelicopter">
 	</event>
 
+	<event name="VehicleTukTuk">
+		<pos x="5372.528809" z="809.826416" a="89" /> <!--Borisovo Int Hotel Park Lot -->
+		<pos x="6718.052246" z="3524.851807" a="178" /> <!--Azak warehouse park lot -->
+		<pos x="6407.636230" z="3990.837158" a="90" /> <!--Azak Little Town Beige House -->
+		<pos x="908.525024" z="3826.525879" a="181" /> <!--Vizhai P park lot -->
+		<pos x="2402.392822" z="3913.529053" a="225" /> <!--Rokki Rok Arkas Ind -->
+		<pos x="1424.934937" z="4417.368652" a="12" /> <!--vizhai Ind -->
+		<pos x="3643.476563" z="4089.401855" a="268" /> <!--Alenka PD -->
+		<pos x="2904.021973" z="3731.128418" a="12" /> <!--Three Houses East of Rokki Rok -->
+		<pos x="3431.449219" z="2857.359863" a="82" /> <!-- Anitova Arma 1 Flats South-->
+		<pos x="3574.729248" z="2852.529053" a="12" /> <!-- Anitova Houseblocks Parking Lot-->
+		<pos x="5788.209961" z="2652.309814" a="12" /> <!--Midroc East park lot -->
+		<pos x="7169.664063" z="1656.996338" a="12" /> <!--Tavaruk PD -->
+		<pos x="5360.920898" z="933.010864" a="14" /> <!--Borisovo Park Lot Middle by Hunt Store -->
+		<pos x="5554.331055" z="2491.704102" a="82" /> <!--Midroc Gas Station -->
+		<pos x="6698.219727" z="3550.084229" a="89" /> <!--Azak Warehouse -->
+		<pos x="4170.831055" z="6379.933105" a="182" /> <!--Arika Bridge Mili Checkpoint -->
+		<pos x="2769.006104" z="6749.923340" a="90" /> <!--Belovo/Volkovo Pub -->
+		<pos x="1511.198242" z="5887.646973" a="178" /> <!--Housing Area just south of Arkada Island bridge -->
+		<pos x="868.296814" z="3886.513184" a="12" /> <!-- Vizhai P-->  
+		<pos x="1487.953125" z="4334.374512" a="12" /> <!-- Vizhai Fire-->
+		<pos x="2797.387695" z="4568.092285" a="12" /> <!-- Loisant House-->
+		<pos x="3613.923340" z="3907.553223" a="1" /> <!--Alenka Medical -->
+		<pos x="2424.636963" z="2141.877441" a="45" /> <!--Dashina -->
+		<pos x="3479.449707" z="2918.126953" a="12" /> <!--Anitova Arma 1 Flats North -->
+		<pos x="3379.355469" z="2758.325195" a="12" /> <!--Anitova Church -->
+		<pos x="5519.489258" z="2584.858887" a="265" /> <!--Midroc Medical park lot -->
+		<pos x="6264.727051" z="1971.462036" a="12" /> <!--Novinka -->
+		<pos x="5584.834473" z="1083.688599" a="268" /> <!--Borisovo Fire Park Lot -->
+		<pos x="6567.367676" z="3575.419189" a="228" /> <!--Azak Parkwalk Flats Park Lot -->
+		<pos x="6429.933105" z="3700.810547" a="135" /> <!--Azak PD Houseblock Park Lot -->
+		<pos x="1749.442261" z="4985.026367" a="90" /> <!--Spod -->
+		<pos x="1364.241943" z="6965.592773" a="91" /> <!--Arkada Park Lot -->
+		<pos x="848.063965" z="3807.544922" a="12" /> <!-- Vizhai P-->
+		<pos x="932.637878" z="3887.121338" a="12" /> <!--Vizhai P -->
+		<pos x="3661.130371" z="4050.807617" a="3" /> <!--Alenka Grocery -->
+		<pos x="3073.359619" z="2932.736572" a="259" /> <!--CP-14 -->
+		<pos x="3825.185059" z="2529.605957" a="90" /> <!--Lonely Wood house SE of Anitova -->
+		<pos x="5541.102051" z="2761.459717" a="12" /> <!--Midroc North park lot -->
+		<pos x="6758.393555" z="1018.587402" a="75" /> <!--Selina -->
+	</event>
+	
+
 	<event name="TreasureMap">
 		<pos x="3527.3" z="2628.73" a="90"/>
 		<pos x="3527.45" z="2624.81" a="-90"/>

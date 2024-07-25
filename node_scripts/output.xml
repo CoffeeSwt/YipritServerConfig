@@ -2392,10 +2392,10 @@
         <category name="tools"/>
     </type>
     <type name="Barrel_Blue">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2406,10 +2406,10 @@
         <usage name="Farm"/>
     </type>
     <type name="Barrel_Green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2420,10 +2420,10 @@
         <usage name="Farm"/>
     </type>
     <type name="Barrel_Red">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2434,10 +2434,10 @@
         <usage name="Farm"/>
     </type>
     <type name="Barrel_Yellow">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3888000</lifetime>
         <restock>0</restock>
-        <min>2</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2755,15 +2755,16 @@
         <category name="food"/>
     </type>
     <type name="BearTrap">
-        <nominal>20</nominal>
+        <nominal>1</nominal>
         <lifetime>504800</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
         <category name="tools"/>
+        <usage name="Hunting"/>
     </type>
     <type name="Bear_Beige">
         <nominal>2</nominal>
@@ -4796,10 +4797,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<type name="ClaymoreMine">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>10000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6353,15 +6354,16 @@
         <category name="tools"/>
     </type>
 	<type name="FireworksLauncher">
-        <nominal>15</nominal>
+        <nominal>1</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>15</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
+        <usage name="Lunapark"/>
     </type>
     <type name="FirstAidKit">
         <nominal>6</nominal>
@@ -6995,20 +6997,16 @@
         <value name="Tier4"/>
     </type>
     <type name="GPSReceiver">
-        <nominal>20</nominal>
+        <nominal>2</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <usage name="Hunting"/>
-        <usage name="Farm"/>
-        <usage name="Military"/>
-        <usage name="Town"/>
-        <usage name="Village"/>
     </type>
     <type name="GardenLime">
         <nominal>8</nominal>
@@ -8610,15 +8608,17 @@
         <value name="Tier4"/>
     </type>
     <type name="Heatpack">
-        <nominal>40</nominal>
+        <nominal>10</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>40</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
+        <tag name="shelves"/>
+        <usage name="Hunting"/>
     </type>
     <type name="HescoBox">
         <nominal>0</nominal>
@@ -9758,10 +9758,10 @@
         <category name="food"/>
     </type>
     <type name="LandMineTrap">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>204800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10362,10 +10362,10 @@
         <value name="Tier3"/>
     </type>
 	<type name="M79">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>11000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -10376,10 +10376,10 @@
         <value name="Tier7"/>
     </type>
 	<type name="Ammo_40mm_Chemgas">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>12000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10389,10 +10389,10 @@
 		<value name="Tier7"/>
     </type>
     <type name="Ammo_40mm_Explosive">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>8000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10403,10 +10403,10 @@
         <value name="Tier6"/>
     </type>
     <type name="Ammo_40mm_Smoke_Black">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>9000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10415,10 +10415,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_40mm_Smoke_Green">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>9000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10427,10 +10427,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_40mm_Smoke_Red">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>9000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -10439,10 +10439,10 @@
         <usage name="Military"/>
     </type>
     <type name="Ammo_40mm_Smoke_White">
-        <nominal>0</nominal>
+        <nominal>2</nominal>
         <lifetime>9000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -13673,10 +13673,10 @@
         <category name="tools"/>
     </type>
 	<type name="Plastic_Explosive">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>7000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14011,10 +14011,10 @@
         <usage name="Village"/>
     </type>
     <type name="Potato">
-        <nominal>0</nominal>
+        <nominal>6</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>7</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14022,10 +14022,10 @@
         <category name="food"/>
     </type>
     <type name="PotatoSeed">
-        <nominal>0</nominal>
+        <nominal>7</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>8</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17196,10 +17196,10 @@
         <usage name="Industrial"/>
     </type>
     <type name="Tomato">
-        <nominal>0</nominal>
+        <nominal>9</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

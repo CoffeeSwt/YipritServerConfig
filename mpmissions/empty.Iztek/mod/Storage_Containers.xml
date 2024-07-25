@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+    <type name="SFM_Container_Ammo_Original">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="SFM_Container_Ammo_Brown">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="SFM_Container_Ammo_Camo">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="SFM_Container_Ammo_Gray">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="SFM_Container_Ammo_Green">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="SFM_Container_Ammo_Tan">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="SFM_Container_Ammo_White">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+
+
+    <type name="SFM_Container_Food_Original">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_Gray">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_Green">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_Green_Black">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+
+    <type name="SFM_Container_Food_Mentol">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_Orange">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_Pink">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_Purple">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_Red">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_Tan">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_White">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="SFM_Container_Food_Yellow">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+    </type>
+
+    <type name="SFM_Container_Items_Original">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+    </type>
+    <type name="SFM_Container_Items_Brown">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+    </type>
+    <type name="SFM_Container_Items_Camo">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+    </type>
+    <type name="SFM_Container_Items_Gray">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+    </type>
+    <type name="SFM_Container_Items_Green">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+    </type>
+    <type name="SFM_Container_Items_Tan">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+    </type>
+    <type name="SFM_Container_Items_White">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+    </type>
+
+    <type name="SFM_Container_Items_THICC_Original">
+        <nominal>3</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+    </type>
+    <type name="SFM_Container_Junk_Original">
+        <nominal>3</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+    </type>
+    <type name="SFM_Container_Magazine_Original">
+        <nominal>3</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+    </type>
+    <type name="SFM_Container_Medicine_Original">
+        <nominal>4</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="SFM_Container_Weapons_Original">
+        <nominal>4</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="SFM_Container_Weapons_Green">
+        <nominal>4</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+    <type name="SFM_Container_Weapons_THICC_Original">
+        <nominal>4</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>4</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+    </type>
+</types>
