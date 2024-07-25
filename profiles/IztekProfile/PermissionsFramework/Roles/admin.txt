@@ -103,9 +103,6 @@ Admin.Transport.Repair 2
 Admin.Map 2
 Admin.Map.View 2
 Admin.Map.Players 2
-Admin.FuelControl 2
-Admin.FuelControl.View 2
-Admin.FuelControl.Edit 2
 Admin.Roles 2
 Admin.Roles.Update 2
 Entity 2
