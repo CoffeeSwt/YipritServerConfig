@@ -120,9 +120,9 @@ class CustomMission: MissionServer
             itemEnt = itemClothing.GetInventory().CreateInInventory( "Rag" );
             if ( Class.CastTo( itemBs, itemEnt ) )
                 itemBs.SetQuantity( 4 );
-
-            SetRandomHealth( itemEnt );
-
+            
+            itemClothing.GetInventory().CreateInInventory( "Heatpack" );
+                
             string chemlightArray[] = { "Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red" };
             int rndIndex = Math.RandomInt( 0, 4 );
             itemEnt = itemClothing.GetInventory().CreateInInventory( chemlightArray[rndIndex] );
