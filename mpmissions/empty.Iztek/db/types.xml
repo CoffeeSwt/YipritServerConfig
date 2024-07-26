@@ -13398,10 +13398,10 @@
         <category name="tools"/>
     </type>
     <type name="PepperSeedsPack">
-        <nominal>6</nominal>
+        <nominal>0</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -14173,10 +14173,10 @@
         <category name="tools"/>
     </type>
     <type name="PumpkinSeedsPack">
-        <nominal>7</nominal>
+        <nominal>0</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -17224,10 +17224,10 @@
         <category name="tools"/>
     </type>
     <type name="TomatoSeedsPack">
-        <nominal>8</nominal>
+        <nominal>0</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -20706,10 +20706,10 @@
         <category name="tools"/>
     </type>
     <type name="ZucchiniSeedsPack">
-        <nominal>9</nominal>
+        <nominal>0</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>8</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

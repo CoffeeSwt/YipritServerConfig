@@ -10,6 +10,21 @@ const getModsList = () => {
   return items.filter((i) => modRegx.test(i)).map((i) => i);
 };
 
+const getModListString = () => `${getModsList().join(";")};`;
+
+const mergeBatScript = (name) => {
+  if (!name) return;
+  try {
+    // 使用 fs.readFileSync 读取文件内容
+    const data = fs.readFileSync(path.resolve(ROOTPATH, name), "utf8");
+    data.replace(/(-mod=)[^,]*/, `$1${getModListString()}`);
+    fs.writeFileSync(path.resolve(ROOTPATH, name), data, "utf8");
+  } catch (err) {
+    // 处理错误
+    console.error("Error merging file:", err);
+  }
+};
+
 const getKeyPath = (modPath) => {
   const KeyPath1 = path.resolve(modPath, "keys");
   if (fs.existsSync(KeyPath1)) return KeyPath1;
@@ -44,14 +59,23 @@ const getExistKeys = () => {
 
 const diffCheck = () => {
   const existKeys = getExistKeys();
-  return getKeysNameAndPathList().filter(
-    (key) => !existKeys.includes(key.name)
-  );
+  const currentKeys = getKeysNameAndPathList();
+  const needAdd = currentKeys.filter((key) => !existKeys.includes(key.name));
+  const redundantKeys = existKeys.filter((keyName) => {
+    if (keyName == "dayz.bikey") return false;
+    return !currentKeys.map((i) => i.name).includes(keyName);
+  });
+  return {
+    needAdd,
+    redundantKeys,
+  };
 };
 
 const mergeKeyFile = () => {
-  const notExistKeys = diffCheck();
-  notExistKeys.forEach((key) => {
+  const diff = diffCheck();
+
+  //add notExist
+  diff.needAdd.forEach((key) => {
     const sourcePath = key.path;
     const destinationPath = path.resolve(KEYPATH, key.name);
     fs.copyFile(sourcePath, destinationPath, function (err) {
@@ -59,7 +83,14 @@ const mergeKeyFile = () => {
       else console.log("copy file succeed");
     });
   });
+  //cleanRedundant
+  diff.redundantKeys.forEach((keyName) => {
+    const keyPath = path.resolve(KEYPATH, keyName);
+    fs.rm(keyPath, function (err) {
+      if (err) console.log("something wrong was happened");
+      else console.log("delete file succeed");
+    });
+  });
 };
-mergeKeyFile();
 
-module.exports = { getModsList };
+module.exports = { mergeKeyFile, mergeBatScript };
