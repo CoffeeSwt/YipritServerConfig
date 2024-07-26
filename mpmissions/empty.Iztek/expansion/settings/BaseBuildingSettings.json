@@ -1,7 +1,7 @@
 {
     "m_Version": 4,
     "CanBuildAnywhere": 1,
-    "AllowBuildingWithoutATerritory": 1,
+    "AllowBuildingWithoutATerritory": 0,
     "DeployableOutsideATerritory": [
         "ExpansionSatchel",
         "Fireplace",
@@ -35,7 +35,7 @@
         "SmallFishTrap",
         "TripwireTrap"
     ],
-    "CanCraftVanillaBasebuilding": 0,
+    "CanCraftVanillaBasebuilding": 1,
     "CanCraftExpansionBasebuilding": 1,
     "DestroyFlagOnDismantle": 1,
     "DismantleOutsideTerritory": 0,

@@ -894,6 +894,15 @@
         <btn name="mWheelDown" />
         <btn name="kApostrophe" />
     </input>
+    <input name="UAEarPlugsToggleMute">
+        <btn name="kN" />
+    </input>
+    <input name="UAEarPlugsIncreaseVol">
+        <btn name="kEquals" />
+    </input>
+    <input name="UAEarPlugsDecreaseVol">
+        <btn name="kMinus" />
+    </input>
     <input name="UAOfferRequestItem">
         <btn name="kO" />
     </input>
