@@ -237,7 +237,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [5248.980957, 8.71873, 1293.339966],
         [5252.874023, 8.773205, 1269.887451]
@@ -273,7 +273,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [7155.844727, 19.791174, 1693.877197],
         [7174.94873, 20.341682, 1680.549683]
@@ -309,7 +309,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [5611.845703, 2.384248, 2663.008301],
         [5613.349121, 2.680305, 2643.530762]
@@ -345,7 +345,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [4751.687988, 15.721784, 3105.661621],
         [4747.189941, 16.116484, 3122.037109]
@@ -381,7 +381,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [3541.013916, 9.725777, 2932.127197],
         [3516.261475, 9.541975, 2947.711914]
@@ -417,7 +417,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [2702.734131, 11.779084, 5323.624023],
         [2704.534668, 10.789452, 5340.376953]
@@ -453,7 +453,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [3616.614014, 5.103051, 4081.662354],
         [3642.566162, 4.997862, 4101.372559]
@@ -489,7 +489,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [6359.695801, 9.022783, 3743.90332],
         [6385.98291, 8.740396, 3719.499756]
@@ -525,7 +525,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [4204.800781, 14.557079, 2257.371094],
         [4167.410645, 12.168719, 2292.926758],
@@ -568,7 +568,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [2460.392578, 6.853461, 2183.943604],
         [2418.43042, 7.679012, 2188.292236],
@@ -608,7 +608,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [1696.898193, 23.420374, 4385.402344],
         [1596.094971, 7.601032, 4361.676758],
@@ -653,7 +653,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [991.151672, 8.590827, 3895.908691],
         [828.707581, 9.08497, 3894.88208],
@@ -695,7 +695,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [1002.617188, 8.705338, 3798.034668],
         [1018.007202, 8.847813, 3794.277344],
@@ -760,7 +760,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [2146.920166, 7.889962, 4503.432617],
         [2164.768066, 8.389288, 4511.010742],
@@ -800,7 +800,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [3996.824219, 14.354207, 2784.91333],
         [4030.88501, 14.547995, 2811.695557],
@@ -843,7 +843,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [5451.950684, 4.359172, 3824.552246],
         [5451.946777, 4.904642, 3844.739746],
@@ -904,7 +904,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [6349.07959, 8.960205, 3719.683594],
         [6344.961426, 8.712934, 3697.813232],
@@ -958,7 +958,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [6944.482422, 3.248514, 3900.571045],
         [6903.274414, 3.54171, 3934.756836],
@@ -1011,7 +1011,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [7184.432617, 9.033033, 5045.11377],
         [7210.776367, 10.519556, 5122.01709],
@@ -1061,7 +1061,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [7312.202637, 16.108793, 5090.891113],
         [7267.827637, 17.62529, 5088.846191],
@@ -1112,7 +1112,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [7217.571777, 6.998346, 5232.705566],
         [7214.206543, 6.499078, 5290.953125],
@@ -1164,7 +1164,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [3596.288086, 7.682517, 5253.669922],
         [3639.518799, 7.682447, 5284.986328],
@@ -1214,7 +1214,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [3579.211914, 9.273378, 5154.794922],
         [3526.077148, 8.092677, 5107.166992],
@@ -1256,7 +1256,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [3479.611328, 8.877214, 5170.387695],
         [3543.112061, 7.628608, 5215.935547],
@@ -1317,7 +1317,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [4190.016113, 186.622101, 6365.731445],
         [4203.125977, 184.770889, 6428.349121],
@@ -1356,7 +1356,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [4751.037109, 129.045212, 6977.119629],
         [4764.137695, 127.752075, 6977.527832],
@@ -1410,7 +1410,7 @@
       "WaypointInterpolation": "",
       "DespawnTime": -1.0,
       "RespawnTime": -2.0,
-      "UseRandomWaypointAsStartPoint": 1,
+      "UseRandomWaypointAsStartPoint": 0,
       "Waypoints": [
         [1225.128418, 5.223969, 7221.916016],
         [1256.335815, 5.179277, 7254.581543],
@@ -1436,6 +1436,46 @@
         [1229.483398, 5.390452, 7258.448242],
         [1222.441284, 6.253859, 7249.138184],
         [1237.34375, 6.008711, 7236.411133]
+      ]
+    },
+    {
+      "Name": "军事区18",
+      "Persist": 0,
+      "Faction": "Shamans",
+      "Formation": "RANDOM",
+      "FormationLooseness": 20.0,
+      "Loadout": "EastLoadout",
+      "Units": [],
+      "NumberOfAI": 4,
+      "Behaviour": "ALTERNATE",
+      "Speed": "JOG",
+      "UnderThreatSpeed": "SPRINT",
+      "CanBeLooted": 1,
+      "UnlimitedReload": 1,
+      "SniperProneDistanceThreshold": 100.0,
+      "AccuracyMin": -1.0,
+      "AccuracyMax": -1.0,
+      "ThreatDistanceLimit": -1.0,
+      "NoiseInvestigationDistanceLimit": -1.0,
+      "DamageMultiplier": -1.0,
+      "DamageReceivedMultiplier": -1.0,
+      "MinDistRadius": -1.0,
+      "MaxDistRadius": -1.0,
+      "DespawnRadius": -1.0,
+      "MinSpreadRadius": 1.0,
+      "MaxSpreadRadius": 2.0,
+      "Chance": 1.0,
+      "WaypointInterpolation": "",
+      "DespawnTime": -1.0,
+      "RespawnTime": -2.0,
+      "UseRandomWaypointAsStartPoint": 0,
+      "Waypoints": [
+        [1485.92334, 11.784747, 6650.819824],
+        [1354.36499, 7.041852, 6811.632324],
+        [1335.455688, 6.896058, 6942.130371],
+        [1267.858765, 6.781637, 7101.296875],
+        [1228.157837, 6.044064, 7222.69873],
+        [1228.200439, 9.569342, 7283.271973]
       ]
     }
   ]
