@@ -17,8 +17,8 @@ const mergeBatScript = (name) => {
   try {
     // 使用 fs.readFileSync 读取文件内容
     const data = fs.readFileSync(path.resolve(ROOTPATH, name), "utf8");
-    data.replace(/(-mod=)[^,]*/, `$1${getModListString()}`);
-    fs.writeFileSync(path.resolve(ROOTPATH, name), data, "utf8");
+    const resultData = data.replace(/(-mod=)[^"]*?"/, `$1${getModListString()}"`);
+    fs.writeFileSync(path.resolve(ROOTPATH, name), resultData, "utf8");
   } catch (err) {
     // 处理错误
     console.error("Error merging file:", err);
