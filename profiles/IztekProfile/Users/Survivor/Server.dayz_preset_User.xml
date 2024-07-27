@@ -1130,6 +1130,9 @@
     <input name="UAToggleInvis">
         <btn name="kI" />
     </input>
+    <input name="UAToggleHood">
+        <btn name="kT" />
+    </input>
     <input name="eAICommandMenu">
         <btn name="kT" />
     </input>
