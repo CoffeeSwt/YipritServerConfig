@@ -51,6 +51,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="SNAFU_types.xml" type="types" />
 		<file name="TacticalFlava_types.xml" type="types" />
 		<file name="BoomLay_Things.xml" type="types" />
+		<file name="WindstridesClothingPack.xml" type="types" />
 	</ce>
 	<ce folder="mmg_types">
 		<file name="mmg_types_ADMINGEAR.xml" type="types" />
