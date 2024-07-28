@@ -1,0 +1,193 @@
+{
+    "Killed_Message": "Asesinado",
+    "Hunger_Message": "Hambre",
+    "Thirst_Message": "Sed",
+    "Falling_Message": "Caída",
+    "Chemical_Poison_Message": "Químico: Veneno",
+    "Heat_Exhaustion_Message": "Agotamiento por Calor",
+    "Hyperthermia_Message": "Hipotermia",
+    "Blood_Loss_Message": "Exanguinación",
+    "Killer_Message": "Asesino",
+    "Suicided_Message": "Suicidio",
+    "Victim_Message": "Víctima",
+    "Kill_Details_Message": "Detalles del Asesinato",
+    "Weapon_Message": "Arma:",
+    "With_Message": "con",
+    "M_Message": "M",
+    "Zombie_Message": "Zombi",
+    "Vehicle_Message": "Vehículo:",
+    "Cuts_Message": "Corte(s)",
+    "Drowned_Message": "Ahogado",
+    "Depth_Message": "Profundidad",
+    "Fell_Message": "Cayó",
+    "Crashed_Message": "Chocado",
+    "Kmh_Message": "km/h",
+    "C_Message": "°c",
+    "Body_temperature_Message": "Temperatura Corporal",
+    "Suicide_Messages": [
+        "Harto de la vida.",
+        "Abandonó Dayz.",
+        "Escupió el chupete.",
+        "Se fue al Lado Oscuro.",
+        "Contempló la vida y luego dijo que a la porra.",
+        "Azotó a su mono por última vez.",
+        "Arrojó la toalla.",
+        "¿No le gustó la ubicación de aparición?",
+        "¿Por qué no puedo conseguir el maldito punto de aparición que quiero???",
+        "¿Por qué demonios aparecí aquí de nuevo?"
+    ],
+    "Zombie_Names": [
+        "Mordisqueador Boothy",
+        "Anciano Jingo",
+        "Bob el Carnicero",
+        "Sra. Tibbs",
+        "Sr. Cadáver",
+        "Sra. Sin dientes",
+        "Ringo el viejo crostoso",
+        "Srita. Mordisquitos de Tobillo",
+        "Sra. Miggin's",
+        "¡Timmy!",
+        "Jimmy el mordisqueador de cuellos",
+        "Distribuidor de la Muerte Del Boy",
+        "Rodney el tambaleante",
+        "Gatillo muerto sin cerebro",
+        "Abuela Smith",
+        "Barry el Bautista",
+        "Rott Wilder",
+        "Austin Powers",
+        "Barry Mannilow",
+        "Celine Deadon",
+        "Ed",
+        "Michael come-lo Jackson",
+        "El Vicario de la Muerte",
+        "Isaías Rompecráneos",
+        "El Hambriento",
+        "El Gemidor",
+        "Cementerio Betty",
+        "Harold Mordida Marcada",
+        "Lanky el Sin Vida",
+        "Chrystal sin cerebro",
+        "Pete Limbo",
+        "Poolie Reanimado",
+        "Algún tipo escocés gordo",
+        "Rhys muerto por Halitosis",
+        "Golpea al Unicornio no muerto"
+    ],
+    "Zombie_Kill_Messages": [
+        "Fue devorado vivo.",
+        "No sobrevivió al apocalipsis zombi.",
+        "Debió estar ausente.",
+        "Mordió más de lo que podía masticar.",
+        "Le patearon el trasero los no muertos.",
+        "OOOOooooofff.",
+        "Debió haber estado rodeado.",
+        "No cerró la puerta detrás de él.",
+        "Definitivamente no es Shaun of the Dead.",
+        "¿28 días después? Nah, más bien 2 minutos después.",
+        "Ahora es un bufé de zombis.",
+        "Problema de habilidad."
+    ],
+    "Vehicle_Kill_Messages": [
+        "Ahora es un atropello.",
+        "0 - Vehículo 1.",
+        "Jugó a las gallinas y perdió.",
+        "No miró en ambas direcciones antes de cruzar.",
+        "El más grande tiene prioridad."
+    ],
+    "Bear_Trap_Messages": [
+        "Falló la Trampa de Oso",
+        "No debería haberse parado allí.",
+        "Debería haber mirado por dónde caminaba",
+        "Tiene nuevas joyas.",
+        "¿Parezco un oso?"
+    ],
+    "Land_Mine_Messages": [
+        "¡Boom!",
+        "No debería haberse parado allí.",
+        "¿Eso parece una mina?!",
+        "Eso es peor que pisar lego.",
+        "¿Quién puso eso allí?"
+    ],
+    "Animal_Messages": [
+        "Fue despedazado hasta la muerte.",
+        "No alimente a la fauna.",
+        "Tan mal",
+        "Corre más rápido"
+    ],
+    "Unknown_Messages": [
+        "Murió por una causa desconocida.",
+        "Murió pero no sabemos por qué."
+    ],
+    "Grenade_Messages": [
+        "Intentó atrapar la Granada.",
+        "Perdió en la papa caliente",
+        "Fracaso en el juego de la silla.",
+        "Debería haberse movido."
+    ],
+    "Melee_Messages": [
+        "Golpeado hasta la muerte.",
+        "Apuñalado hasta la muerte.",
+        "Intente esquivar"
+    ],
+    "Hunger_Messages": [
+        "No pudo encontrar comida.",
+        "Espero que no haya comido esa fruta mohosa.",
+        "¿Intenta pescar?!"
+    ],
+    "Thirst_Messages": [
+        "No bebió suficiente agua.",
+        "tal vez beber eso fue mala idea.",
+        "¿Bolsa de solución salina la próxima vez?"
+    ],
+    "Falling_Messages": [
+        "Esa fue una caída más grande de lo que pensaron.",
+        "No trajeron sus botas de portal.",
+        "El agua es más suave que las rocas",
+        "Cayó de cara.",
+        "No es Superman",
+        "Modo panqueque habilitado"
+    ],
+    "Chemical_Poisen_Messages": [
+        "Esa mascarilla antigás no era la mejor",
+        "¿Quién se tiró un pedo, WTF?!!",
+        "No pudo soportar el hedor",
+        "Consigue equipo mejor"
+    ],
+    "Heat_Exhaustion_Messages": [
+        "Fue cocinado como una papa al horno",
+        "¿Por qué están tan tostados mis dedos de los pies?",
+        "¿Qué pensaste que sucedería?"
+    ],
+    "Hyperthermia_Messages": [
+        "Murió congelado.",
+        "Parece Frosty el muñeco de nieve.",
+        "Ha ascendido a forma de paleta.",
+        "Todo trabajo y nada de juego"
+    ],
+    "Bleeding_Messages": [
+        "Las vendas son más importantes que la ropa.",
+        "Debería haber envuelto ese corte más rápido.",
+        "¿Simplemente no te cortes?"
+    ],
+    "Punched_Messages": [
+        "Golpeado",
+        "Pocionado",
+        "Abofeteado",
+        "Golpeado"
+    ],
+    "Vehicle_Self_Kill_Messages": [
+        "Obtuvo su licencia de una caja de cereal.",
+        "cómo no conducir.",
+        "¿cómo lo hicieron?",
+        "Cierra la puerta la próxima vez.",
+        "No puedes estacionar allí.",
+        "Simplemente mejora."
+    ],
+    "Drowned_Messages": [
+        "Duerme con los peces",
+        "Recibió botas de concreto de regalo",
+        "Flotó como una roca",
+        "El estilo perro no fue suficiente",
+        "La selección natural en su máxima expresión."
+    ]
+}

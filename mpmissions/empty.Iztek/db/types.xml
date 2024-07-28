@@ -1136,10 +1136,10 @@
         <value name="Tier4"/>
     </type>
     <type name="Ammo_Flare">
-        <nominal>6</nominal>
+        <nominal>1</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>7</min>
+        <min>1</min>
         <quantmin>20</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
@@ -6155,10 +6155,10 @@
         <usage name="Hunting"/>
     </type>
     <type name="FarmingHoe">
-        <nominal>9</nominal>
+        <nominal>0</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -6794,10 +6794,10 @@
         <usage name="School"/>
     </type>
     <type name="Flaregun">
-        <nominal>10</nominal>
+        <nominal>1</nominal>
         <lifetime>5000</lifetime>
         <restock>0</restock>
-        <min>12</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

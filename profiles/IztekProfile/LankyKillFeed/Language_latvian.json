@@ -1,0 +1,192 @@
+{
+    "Killed_Message": "Nogalināts",
+    "Hunger_Message": "Bads",
+    "Thirst_Message": "Slāpe",
+    "Falling_Message": "Kritiens",
+    "Chemical_Poison_Message": "Ķīmiska vielas saindēšanās",
+    "Heat_Exhaustion_Message": "Siltuma izsīkums",
+    "Hyperthermia_Message": "Hipotermija",
+    "Blood_Loss_Message": "Asins zudums",
+    "Killer_Message": "Nogalinātājs",
+    "Suicided_Message": "Pašnāvies",
+    "Victim_Message": "Upuris",
+    "Kill_Details_Message": "Nogalināšanas detaļas",
+    "Weapon_Message": "Ierocis: ",
+    "With_Message": "ar",
+    "M_Message": "M",
+    "Zombie_Message": "Zombijs",
+    "Vehicle_Message": "Transportlīdzeklis:",
+    "Cuts_Message": "Griezieni",
+    "Drowned_Message": "Noslīcis",
+    "Depth_Message": "Dziļums",
+    "Fell_Message": "Nokritis",
+    "Crashed_Message": "Saskrāpējies",
+    "Kmh_Message": "km/h",
+    "C_Message": "°c",
+    "Body_temperature_Message": "Ķermeņa temperatūra",
+    "Suicide_Messages": [
+        "Pietika ar dzīvi.",
+        "Atkāpās no Dayz.",
+        "Izmētā bērnišķību.",
+        "Aizgāja uz Tumšo Pusi.",
+        "Apmulsis pār dzīvību un tad pasmējās.",
+        "Pēdējo reizi sametās saviem vijoliem.",
+        "Iemetis dvieļus.",
+        "Nepatika starta atrašanās vieta?",
+        "Kāpēc man neizdodas saņemt to blēdīgo startu, ko es gribu???",
+        "Kur velns, es atkal esmu šeit nonācis!"
+    ],
+    "Zombie_Names": [
+        " Ķirzi Bošijs",
+        "Vecais Džingo",
+        "Bobs Mājsaimnieks",
+        "Kundze Tibbs",
+        "Kungs Maita",
+        "Kundze bez zobiem",
+        "Sausais Ringo",
+        "Mis Ankle Baiter",
+        "Kundze Migina",
+        "Timi!!!",
+        "Džimi sprauslu sagraušana",
+        "Nāves tirgotājs Del Bojs",
+        "Klustošais Rodnijs",
+        "Smadzeņu mirstīgais Trigērs",
+        "Vecmāmiņa Smita",
+        "Barijs kristītājs",
+        "Rotvilders Rots",
+        "Ostins Pauers",
+        "Barijs Mannilous",
+        "Selīne Mirstīgā",
+        "Eds",
+        "Mihaels Ēdiet To Džeksonu",
+        "Nāves priesteris",
+        "Skul Kraker Isaija",
+        "Izsalkušais",
+        "Stenētājs",
+        "Kapu Beite",
+        "Harolds Bitemark",
+        "Garais bezdzīvais",
+        "Kristāls bez smadzenēm",
+        "Limbā Pīts",
+        "Atdzimis Pūlē",
+        "Kaut kāds resns skotu puisis",
+        "Risa nāve no Halitozes",
+        "Sit nāvi nesējošo vienradzi"
+    ],
+    "Zombie_Kill_Messages": [
+        "Tika apēsts dzīvs.",
+        "Nepārdzīvoja Zombiju apokalipsi.",
+        "Nobija pilnīgi.",
+        "Kas pārāk daudz nokašķējies.",
+        "Tika padzēsts atpakaļ uz zemes.",
+        "Ooooofff.",
+        "Jābūt bijis ieskautam.",
+        "Nepaslēpa aiz sevis durvis.",
+        "Noteikti nav Šons no Mirušo pulka.",
+        "28 dienas vēlāk? Nē, drīzāk 2 minūtes vēlāk.",
+        "Tagad ir zombiju bufets.",
+        "Prasmju problēma."
+    ],
+    "Vehicle_Kill_Messages": [
+        "Tagad ir ceļa iznīcināts.",
+        "0 - Transportlīdzeklis 1.",
+        "Izsauca cūku un zaudēja.",
+        "Neskatījās abos virzienos pirms pārcelšanās.",
+        "Lielākais vienmēr dod ceļu."
+    ],
+    "Bear_Trap_Messages": [
+        "Misiņš neveiksmīgs",
+        "Nevajadzēja tur stāvēt.",
+        "Būtu jāskatās, kur viņi staigā",
+        "Ir jaunās rotas.",
+        "Vai es izskatos pēc lācīša?"
+    ],
+    "Land_Mine_Messages": [
+        "Izdevās buum !!",
+        "Nevajadzēja stāvēt tur.",
+        "Vai tas izskatās pēc šāviena?!",
+        "Tas ir sliktāk nekā staigāšana uz lego.",
+        "Kas to tur lika!!"
+    ],
+    "Animal_Messages": [
+        "Tika saplosīts līdz nāvei.",
+        "Nepiedāvājiet barību dzīvniekiem.",
+        "Tik slikts",
+        "Skrien ātrāk"
+    ],
+    "Unknown_Messages": [
+        "Miris no nezināmas cēloņa.",
+        "Miris, bet mēs nezinām kāpēc."
+    ],
+    "Grenade_Messages": [
+        "Mēģināja pagūt granātu.",
+        "Zaudēja karsto kartupeli",
+        "Parāva pasaules pakešu spēli neveiksmīgi.",
+        "Būtu jākustas."
+    ],
+    "Melee_Messages": [
+        "Nokauts līdz nāvei.",
+        "Ieklauvēts līdz nāvei.",
+        "Pamēģiniet izvairīties"
+    ],
+    "Hunger_Messages": [
+        "Nevarēja atrast ēdienu.",
+        "Ceram, ka viņi nav ēduši to pelēko augli.",
+        "Pamēģiniet zvejot?!"
+    ],
+    "Thirst_Messages": [
+        "Nedzēra pietiekami daudz ūdens.",
+        "Varbūt dzerot to bija slikta ideja.",
+        "Varbūt nākamreiz paņems sāls šļirci?"
+    ],
+    "Falling_Messages": [
+        "Tas bija lielāks kritums nekā viņi domāja.",
+        "Nesaņēma savus portāla zābakus.",
+        "Ūdens ir mīkstāks par akmeņiem",
+        "Nav super cilvēks",
+        "Pancake režīms ieslēgts"
+    ],
+    "Chemical_Poisen_Messages": [
+        "Tas gāzmaskis nebija labākais",
+        "Kas izpirkts, wtf?!!",
+        "Nespēja panest smaku",
+        "Iegūsti labāku aprīkojumu"
+    ],
+    "Heat_Exhaustion_Messages": [
+        "Tika izcepti kā cepti kartupeļi",
+        "Kāpēc manas pēdas ir tik siltas?",
+        "Ko tu domāji, kas notiks?"
+    ],
+    "Hyperthermia_Messages": [
+        "Salīdzinājās līdz nāvei.",
+        "Izskatās kā ledus cilvēks Frostis.",
+        "Ir kļuvis par saldētu veidolu.",
+        "Visi darbi un nekādas rotaļas"
+    ],
+    "Bleeding_Messages": [
+        "Šķirsti ir svarīgāki par apģērbu.",
+        "Būtu jāieritin griezienu ātrāk.",
+        "Vienkārši nesaņemiet griezumu?!"
+    ],
+    "Punched_Messages": [
+        "Iepakots",
+        "Iepakots ar nāvīgām slimībām",
+        "Pašizjokoja",
+        "Iztritināts"
+    ],
+    "Vehicle_Self_Kill_Messages": [
+        "Ieguva vadītāja apliecību no labības kastē.",
+        "kā nēbraukt.",
+        "kā viņi to izdarīja?",
+        "Nākamreiz aizveriet durvis.",
+        "Tur nevar stāvēt.",
+        "Vienkārši kļūsti labāks."
+    ],
+    "Drowned_Messages": [
+        "Gulējiet ar zivīm",
+        "Bija dāvināti betona zābaki",
+        "Peldēja kā akmens",
+        "Suņa burbulis nebija pietiekami labs",
+        "Dabiska izlase savā labākajā veidā."
+    ]
+}

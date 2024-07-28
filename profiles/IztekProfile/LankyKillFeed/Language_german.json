@@ -1,0 +1,192 @@
+{
+    "Killed_Message": "Getötet",
+    "Hunger_Message": "Hunger",
+    "Thirst_Message": "Durst",
+    "Falling_Message": "Fall",
+    "Chemical_Poison_Message": "Chemisch: Gift",
+    "Heat_Exhaustion_Message": "Hitzeschwäche",
+    "Hyperthermia_Message": "Hyperthermie",
+    "Blood_Loss_Message": "Exsanguination",
+    "Killer_Message": "Täter",
+    "Suicided_Message": "Selbstmord begangen",
+    "Victim_Message": "Opfer",
+    "Kill_Details_Message": "Tötungsdetails",
+    "Weapon_Message": "Waffe: ",
+    "With_Message": "mit",
+    "M_Message": "M",
+    "Zombie_Message": "Zombie",
+    "Vehicle_Message": "Fahrzeug:",
+    "Cuts_Message": "Schnitt(s)",
+    "Drowned_Message": "Ertrunken",
+    "Depth_Message": "Tiefe",
+    "Fell_Message": "Gefallen",
+    "Crashed_Message": "Abgestürzt",
+    "Kmh_Message": "km/h",
+    "C_Message": "°c",
+    "Body_temperature_Message": "Körpertemperatur",
+    "Suicide_Messages": [
+        "Hatte genug vom Leben.",
+        "Hat Dayz aufgegeben.",
+        "Hat den Schnuller ausgespuckt.",
+        "Ging zur dunklen Seite.",
+        "Hatte Lebensbetrachtungen und dachte dann: Scheiß drauf.",
+        "Hat zum letzten Mal auf den Affen gehauen.",
+        "Warf das Handtuch.",
+        "Mag den Spawnort nicht?",
+        "Warum bekomme ich nicht den verdammten Spawn, den ich will???",
+        "Warum zum Teufel habe ich schon wieder hier gespawnt!"
+    ],
+    "Zombie_Names": [
+        " Beißer Buti",
+        "Alter Mann Jingo",
+        "Bob der Metzger",
+        "Frau Tibbs",
+        "Herr Leichnam",
+        "Frau zahnlos",
+        "Krätzig alter Ringo",
+        "Fräulein Knöchelbeißer",
+        "Frau Miggins",
+        "Timmy!!!",
+        "Jimmy der Halsknabberer",
+        "Todverkäufer Del Boy",
+        "Schlurfender Rodney",
+        "Gehirntoter Trigger",
+        "Oma Smith",
+        "Barry der Baptisten",
+        "Rott Wilder",
+        "Austin Powers",
+        "Barry Mannilow",
+        "Celine Todon",
+        "Ed",
+        "Michael Isses Jackson",
+        "Pfarrer von Tödlich",
+        "Schädelspalter Jesaja",
+        "Der Hungrige",
+        "Der Stöhnende",
+        "Friedhof Betty",
+        "Harold Bitemark",
+        "Lanky der Leblose",
+        "Chrystal kein Gehirn",
+        "Limbo Pete",
+        "Wiederbelebter Poolie",
+        "Einige dicke schottische Kerle",
+        "Rhys Tod durch Halitosis",
+        "Schlag den untoten Einhorn"
+    ],
+    "Zombie_Kill_Messages": [
+        "Wurde lebendig gegessen.",
+        "Hat die Zombie-Apokalypse nicht überlebt.",
+        "Muss wohl afk gewesen sein.",
+        "Hat sich mehr vorgenommen, als er/sie kauen konnte.",
+        "Hat sich von den Untoten den Hintern versohlen lassen.",
+        "OOOOooooofff.",
+        "Muss wohl umzingelt gewesen sein.",
+        "Hat die Tür nicht hinter sich geschlossen.",
+        "Ist definitiv kein Shaun of the Dead.",
+        "28 Tage später? Nein, eher 2 Minuten später.",
+        "Ist jetzt ein Zombie-Buffet.",
+        "Skill-Problem."
+    ],
+    "Vehicle_Kill_Messages": [
+        "Ist jetzt Straßenkill.",
+        "0 - Fahrzeug 1.",
+        "Hat Huhn gespielt und verloren.",
+        "Hat nicht beide Seiten angeschaut, bevor er/sie über die Straße ging.",
+        "Größeres hat Vorfahrt."
+    ],
+    "Bear_Trap_Messages": [
+        "Bärenfalle fehlgeschlagen",
+        "Hätte da nicht stehen sollen.",
+        "Hätte hinschauen sollen, wo sie/er gelaufen ist",
+        "Hat jetzt neuen Schmuck.",
+        "Sehe ich aus wie ein Bär!!"
+    ],
+    "Land_Mine_Messages": [
+        "Ging Boom !!",
+        "Hätte da nicht stehen sollen.",
+        "Sieht das wie eine Mine aus?!",
+        "Das ist schlimmer als auf Lego zu treten.",
+        "Wer hat das da hingestellt!!"
+    ],
+    "Animal_Messages": [
+        "Wurde zu Tode zerfleischt.",
+        "Füttere nicht die Wildtiere.",
+        "So schlecht",
+        "Lauf schneller"
+    ],
+    "Unknown_Messages": [
+        "Starb aus unbekannter Ursache.",
+        " Starb, aber wir wissen nicht warum."
+    ],
+    "Grenade_Messages": [
+        "Versuchte, die Granate zu fangen.",
+        "Verlor beim heißen Kartoffelspiel.",
+        "Päckchen weitergeben fehlgeschlagen.",
+        "Hätte sich bewegen sollen."
+    ],
+    "Melee_Messages": [
+        "Zu Tode geboxt.",
+        "Zu Tode gestochen.",
+        "Versuche auszuweichen"
+    ],
+    "Hunger_Messages": [
+        "Konnte kein Essen finden.",
+        "Hoffentlich haben sie/er nicht das verschimmelte Obst gegessen.",
+        "Vielleicht Angeln?!"
+    ],
+    "Thirst_Messages": [
+        "Hat nicht genug Wasser getrunken.",
+        "Vielleicht war das Trinken von dem eine schlechte Idee.",
+        "Salinensack nächstes Mal?"
+    ],
+    "Falling_Messages": [
+        "Das war ein größerer Sturz, als sie dachten.",
+        "Hat ihre/seine Portalstiefel nicht mitgebracht.",
+        "Wasser ist weicher als Felsen",
+        "Hat keinen Supermann.",
+        "Pfannkuchenmodus aktiviert"
+    ],
+    "Chemical_Poisen_Messages": [
+        "Diese Gasmaske war nicht die beste",
+        "Wer hat gefurzt WTF?!!",
+        "Konnte den Gestank nicht ertragen",
+        "Besorge bessere Ausrüstung"
+    ],
+    "Heat_Exhaustion_Messages": [
+        "Wurde wie eine gebackene Kartoffel gekocht",
+        "Warum sind meine Zehen so toasty?",
+        "Was hast du gedacht, würde passieren?"
+    ],
+    "Hyperthermia_Messages": [
+        "Erfroren zu Tode.",
+        "Sieht aus wie Frosty der Schneemann.",
+        "Hat sich in Form eines Eis am Stiel verwandelt.",
+        "Alles Arbeit und kein Spiel"
+    ],
+    "Bleeding_Messages": [
+        "Lappen sind wichtiger als Kleidung.",
+        "Hätte den Schnitt schneller verbinden sollen.",
+        "Einfach nicht geschnitten werden?!"
+    ],
+    "Punched_Messages": [
+        "Geschlagen",
+        "Geboxt",
+        "Geslappt",
+        "Verprügelt"
+    ],
+    "Vehicle_Self_Kill_Messages": [
+        "Hat ihren/seinen Führerschein aus einer Cornflakes-Packung bekommen.",
+        "wie man nicht fährt.",
+        "wie hat sie/er das gemacht?",
+        "Nächstes Mal die Tür schließen.",
+        "Da kann man nicht parken.",
+        "Werde besser."
+    ],
+    "Drowned_Messages": [
+        "Schläft mit den Fischen",
+        "Bekam Betonschuhe geschenkt",
+        "Schwamm wie ein Stein",
+        "Hundepaddeln reichte nicht aus",
+        "Natürliche Auslese in ihrer/seiner besten Form."
+    ]
+}

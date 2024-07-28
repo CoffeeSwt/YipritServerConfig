@@ -253,8 +253,8 @@
 
 
   <type name="bl_old_fridge_Kit">
-    <nominal>2</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -272,8 +272,8 @@
 <!-- RECOMMENDATION: Reduce the Amount of NailBoxes by 1 per 2 pallets. (with default settings) -->
 
   <type name="bl_pallet">
-    <nominal>10</nominal>
-    <min>10</min>
+    <nominal>5</nominal>
+    <min>5</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -287,8 +287,8 @@
   </type>
 
   <type name="bl_paint_tube">
-    <nominal>5</nominal>
-    <min>5</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -310,8 +310,8 @@
 
 
   <type name="bl_cercestis_mirabilis">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>1209600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -326,8 +326,8 @@
   </type>
 
   <type name="bl_dieffenbachia">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>1209600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -382,8 +382,8 @@
   It's up to you. -->
 
   <type name="bl_anatolian_carpet_1_Kit">
-    <nominal>4</nominal>
-    <min>3</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -398,8 +398,8 @@
   </type>
 
   <type name="bl_anatolian_carpet_2_Kit">
-    <nominal>4</nominal>
-    <min>3</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -414,8 +414,8 @@
   </type>
 
   <type name="bl_pallet_cabinet_s_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -428,8 +428,8 @@
   </type>
 
   <type name="bl_stove_prefab_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -443,8 +443,8 @@
   </type>
 
   <type name="bl_rain_collector_prefab_Kit">
-    <nominal>4</nominal>
-    <min>3</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -456,8 +456,8 @@
   </type>
 
   <type name="bl_pallet_table_s_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -472,8 +472,8 @@
   </type>
 
   <type name="bl_pallet_table_m_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -489,8 +489,8 @@
   </type>
 
   <type name="bl_pallet_table_l_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -506,8 +506,8 @@
   </type>
 
   <type name="bl_pallet_cabinet_m_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -523,8 +523,8 @@
   </type>
 
   <type name="bl_pallet_cabinet_l_Kit">
-    <nominal>2</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -540,8 +540,8 @@
   </type>
 
   <type name="bl_pallet_bed_s_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -559,8 +559,8 @@
   </type>
 
   <type name="bl_pallet_bed_m_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -578,8 +578,8 @@
   </type>
 
   <type name="bl_pallet_box_1_Kit">
-    <nominal>2</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -595,8 +595,8 @@
   </type>
 
   <type name="bl_pallet_box_2_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -613,8 +613,8 @@
   </type>
 
   <type name="bl_pallet_box_3_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -630,8 +630,8 @@
   </type>
 
   <type name="bl_pallet_box_4_Kit">
-    <nominal>3</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>600</restock>
     <quantmin>-1</quantmin>
@@ -678,8 +678,8 @@
   </type>
 
   <type name="bl_workbench_Kit">
-    <nominal>5</nominal>
-    <min>5</min>
+    <nominal>2</nominal>
+    <min>2</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -693,8 +693,8 @@
   </type>
 
   <type name="bl_repairbench_Kit">
-    <nominal>2</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -852,8 +852,8 @@
   </type>
 
   <type name="bl_pallet_cabinet_xs_Kit">
-    <nominal>2</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -867,7 +867,7 @@
   </type>
 
   <type name="bl_desk_lamp">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <min>1</min>
     <lifetime>1209600</lifetime>
     <restock>0</restock>
@@ -881,8 +881,8 @@
   </type>
 
   <type name="bl_floor_lamp">
-    <nominal>2</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>1209600</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -938,8 +938,8 @@
   </type>
 
   <type name="bl_logstorage_Kit">
-    <nominal>2</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -953,8 +953,8 @@
   </type>
 
   <type name="bl_firewoodstorage_Kit">
-    <nominal>2</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -968,8 +968,8 @@
   </type>
 
   <type name="bl_coffee_machine_Kit">
-    <nominal>2</nominal>
-    <min>2</min>
+    <nominal>1</nominal>
+    <min>1</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>
@@ -1003,8 +1003,8 @@
   </type>
 
   <type name="bl_extension_cable_reel">
-    <nominal>5</nominal>
-    <min>4</min>
+    <nominal>0</nominal>
+    <min>0</min>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <quantmin>-1</quantmin>

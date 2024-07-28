@@ -1,0 +1,191 @@
+{
+    "Killed_Message": "Tué",
+    "Hunger_Message": "Faim",
+    "Thirst_Message": "Soif",
+    "Falling_Message": "Chute",
+    "Chemical_Poison_Message": "Chimique: Poison",
+    "Heat_Exhaustion_Message": "Épuisement par la chaleur",
+    "Hyperthermia_Message": "Hyperthermie",
+    "Blood_Loss_Message": "Exsanguination",
+    "Killer_Message": "Tueur",
+    "Suicided_Message": "Suicidé",
+    "Victim_Message": "Victime",
+    "Kill_Details_Message": "Détails du meurtre",
+    "Weapon_Message": "Arme: ",
+    "With_Message": "avec",
+    "M_Message": "M",
+    "Zombie_Message": "Zombie",
+    "Vehicle_Message": "Véhicule:",
+    "Cuts_Message": "Coup(s)",
+    "Drowned_Message": "Noyé",
+    "Depth_Message": "Profondeur",
+    "Fell_Message": "Tombé",
+    "Crashed_Message": "Écrasé",
+    "Kmh_Message": "km/h",
+    "C_Message": "°C",
+    "Body_temperature_Message": "Température corporelle",
+    "Suicide_Messages": [
+        "En a eu assez de la vie.",
+        "A abandonné Dayz.",
+        "A jeté son hochet.",
+        "Est passé du côté obscur.",
+        "A réfléchi à la vie puis s'est dit zut.",
+        "A donné une dernière fessée à son singe.",
+        "A jeté l'éponge.",
+        "N'a pas aimé l'emplacement d'apparition ?",
+        "Pourquoi est-ce que je n'obtiens pas l'apparition que je veux ???",
+        "Pourquoi diable ai-je encore apparu ici !?"
+    ],
+    "Zombie_Names": [
+        "Boothy le Mordant",
+        "Vieux Jingo",
+        "Bob le Boucher",
+        "Madame Tibbs",
+        "Monsieur Cadavre",
+        "Madame sans dents",
+        "Vieux Ringo croûteux",
+        "Mademoiselle Mordilles-Chevilles",
+        "Madame Miggin's",
+        "Timmy !!!",
+        "Jimmy le rongeur de cou",
+        "Marchand de mort Del Boy",
+        "Rodney qui traîne",
+        "Déclencheur à cerveau mort",
+        "Mamie Smith",
+        "Barry le Baptiste",
+        "Rott Wilder",
+        "Austin Powers",
+        "Barry Mannilow",
+        "Celine Défunton",
+        "Ed",
+        "Michael mangeur Jackson",
+        "Vicaire de Deadly",
+        "Crâne Cassé Isaiah",
+        "Le Vorace",
+        "Le Gémissant",
+        "Cimetière Betty",
+        "Harold Bitemark",
+        "Lanky le Sans-Vie",
+        "Chrystal pas de cerveau",
+        "Limbo Pete",
+        "Poolie Réanimé",
+        "Un gros mec écossais",
+        "Rhys mort par halitose",
+        "Frapper la licorne morte-vivante"
+    ],
+    "Zombie_Kill_Messages": [
+        "A été mangé vivant.",
+        "N'a pas survécu à l'apocalypse des zombies.",
+        "Devait être afk.",
+        "A vu trop grand.",
+        "S'est fait botter les fesses par les morts-vivants.",
+        "Devait être encerclé.",
+        "N'a pas fermé la porte derrière lui.",
+        "N'est certainement pas Shaun of the Dead.",
+        "28 jours plus tard ? Non, plutôt 2 minutes plus tard.",
+        "Est maintenant un buffet de zombies.",
+        "Problème de compétence."
+    ],
+    "Vehicle_Kill_Messages": [
+        "Est maintenant un écrasé de la route.",
+        "0 - Véhicule 1.",
+        "A joué à saute-mouton et a perdu.",
+        "N'a pas regardé des deux côtés avant de traverser.",
+        "Le plus grand a la priorité."
+    ],
+    "Bear_Trap_Messages": [
+        "Échec du piège à ours",
+        "N'aurait pas dû rester là.",
+        "Aurait dû regarder où ils marchaient",
+        "A un nouveau bijou.",
+        "Je ressemble à un ours !!"
+    ],
+    "Land_Mine_Messages": [
+        "A explosé !!",
+        "N'aurait pas dû rester là.",
+        "On dirait une mine ?!",
+        "C'est pire que de marcher sur des Lego.",
+        "Qui a mis ça là !!"
+    ],
+    "Animal_Messages": [
+        "A été déchiqueté à mort.",
+        "Ne pas nourrir la faune.",
+        "Trop mauvais",
+        "Cours plus vite"
+    ],
+    "Unknown_Messages": [
+        "Est mort de cause inconnue.",
+        " Est mort mais nous ne savons pas pourquoi."
+    ],
+    "Grenade_Messages": [
+        "A essayé d'attraper la grenade.",
+        "Perdu à la patate chaude",
+        "Échec de passe le paquet.",
+        "Aurait dû bouger."
+    ],
+    "Melee_Messages": [
+        "Mort par un coup de poing.",
+        "Mort par une pique.",
+        "Essaye d'esquiver"
+    ],
+    "Hunger_Messages": [
+        "N'a pas pu trouver de nourriture.",
+        "J'espère qu'ils n'ont pas mangé ce fruit moisi.",
+        "Essaie la pêche ?!"
+    ],
+    "Thirst_Messages": [
+        "N'a pas bu suffisamment d'eau.",
+        "peut-être que boire ça était une mauvaise idée.",
+        "Un sac de sérum la prochaine fois ?"
+    ],
+    "Falling_Messages": [
+        "C'était une plus grande chute qu'ils ne le pensaient.",
+        "N'a pas apporté ses bottes de portail.",
+        "L'eau est plus douce que les rochers",
+        "N'est pas un super-héros",
+        "Mode crêpe activé"
+    ],
+    "Chemical_Poisen_Messages": [
+        "Ce masque à gaz n'était pas le meilleur",
+        "Qui a pété WTF ?!!",
+        "N'a pas supporté l'odeur",
+        "Obtiens un meilleur équipement"
+    ],
+    "Heat_Exhaustion_Messages": [
+        "A été cuit comme une pomme de terre au four",
+        "Pourquoi mes orteils sont-ils si toasts ?",
+        "Qu'est-ce que tu pensais qu'il se passerait ?"
+    ],
+    "Hyperthermia_Messages": [
+        "Est mort de froid.",
+        "On dirait Frosty le bonhomme de neige.",
+        "Est devenu une forme de glaçon.",
+        "Tout travail et pas de jeu"
+    ],
+    "Bleeding_Messages": [
+        "Les chiffons sont plus importants que les vêtements.",
+        "Aurait dû envelopper cette coupure plus rapidement.",
+        "Ne te fais pas couper ?!"
+    ],
+    "Punched_Messages": [
+        "A été frappé",
+        "A été poché",
+        "A été giflé",
+        "A été battu"
+    ],
+    "Vehicle_Self_Kill_Messages": [
+        "A obtenu son permis dans une boîte de céréales.",
+        "comment ne pas conduire.",
+        "comment ont-ils fait ça ?",
+        "Ferme la porte la prochaine fois.",
+        "Tu ne peux pas te garer là.",
+        "Il suffit de devenir bon."
+    ],
+    "Drowned_Messages": [
+        "Dort avec les poissons",
+        "A reçu des chaussures en béton en cadeau",
+        "A flotté comme un rocher",
+        "La nage du chien n'était pas assez bonne",
+        "La sélection naturelle à son meilleur."
+    ]
+}

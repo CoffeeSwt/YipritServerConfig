@@ -1,0 +1,192 @@
+{
+    "Killed_Message": "Morto",
+    "Hunger_Message": "Fome",
+    "Thirst_Message": "Sede",
+    "Falling_Message": "Queda",
+    "Chemical_Poison_Message": "Químico: Veneno",
+    "Heat_Exhaustion_Message": "Exaustão por Calor",
+    "Hyperthermia_Message": "Hipotermia",
+    "Blood_Loss_Message": "Exsanguinação",
+    "Killer_Message": "Assassino",
+    "Suicided_Message": "Suicidou-se",
+    "Victim_Message": "Vítima",
+    "Kill_Details_Message": "Detalhes do Assassinato",
+    "Weapon_Message": "Arma: ",
+    "With_Message": "com",
+    "M_Message": "M",
+    "Zombie_Message": "Zumbi",
+    "Vehicle_Message": "Veículo:",
+    "Cuts_Message": "Corte(s)",
+    "Drowned_Message": "Afogado",
+    "Depth_Message": "Profundidade",
+    "Fell_Message": "Caiu",
+    "Crashed_Message": "Colidiu",
+    "Kmh_Message": "km/h",
+    "C_Message": "°c",
+    "Body_temperature_Message": "Temperatura Corporal",
+    "Suicide_Messages": [
+        "Cansou-se da vida.",
+        "Desistiu do Dayz.",
+        "Cuspiu a chupeta.",
+        "Foi para o Lado Negro.",
+        "Contemplou a vida e depois pensou 'que se dane'.",
+        "Bateu uma última punheta.",
+        "Jogou a toalha.",
+        "Não gostou da localização de spawn?",
+        "Por que não consigo o spawn maldito que eu quero???",
+        "Por que diabos eu nasci aqui de NOVO!"
+    ],
+    "Zombie_Names": [
+        "Mordedor de Dedos",
+        "Velho Homem Rançoso",
+        "Bob, o Açougueiro",
+        "Sra. Tibbs",
+        "Sr. Cadáver",
+        "Sra. Sem Dentes",
+        "Ringo, o Enrugado",
+        "Sra. Mordida de Tornozelo",
+        "Sra. Miggin's",
+        "Timmy!!!",
+        "Jimmy, o Nibbler de Pescoço",
+        "Revendedor da Morte Del Boy",
+        "Rodney, o Desajeitado",
+        "Gatilho com Cérebro Morto",
+        "Vovó Smith",
+        "Barry, o Batista",
+        "Rott Wilder",
+        "Austin Powers",
+        "Barry Mannilow",
+        "Celine Morton",
+        "Ed",
+        "Michael Jackson Come Tudo",
+        "Vigarista Mortal",
+        "Isaías Esmagador de Crânios",
+        "O Faminto",
+        "O Gemi-dor",
+        "Cemitério Betty",
+        "Harold Marca de Mordida",
+        "Lanky, o Sem Vida",
+        "Cristal Sem Cérebro",
+        "Limbo Pete",
+        "Poolie Reanimado",
+        "Aquele Escocês Gordo Qualquer",
+        "Rhys, Morte por Halitose",
+        "Soco no Unicórnio Morto"
+    ],
+    "Zombie_Kill_Messages": [
+        "Foi devorado vivo.",
+        "Não sobreviveu ao apocalipse zumbi.",
+        "Deve ter ficado afk.",
+        "Mordeu mais do que podia mastigar.",
+        "Tomou um pé na bunda dos mortos-vivos.",
+        "OOOOooooofff.",
+        "Deve ter sido cercado.",
+        "Não fechou a porta atrás de si.",
+        "Definitivamente não é o Shaun dos Mortos.",
+        "28 Dias depois? Nahh, mais parece 2 minutos depois.",
+        "Agora é um buffet de zumbis.",
+        "Problema de habilidade."
+    ],
+    "Vehicle_Kill_Messages": [
+        "Agora é uma vítima do trânsito.",
+        "0 - Veículo 1.",
+        "Jogou frango e perdeu.",
+        "Não olhou para os dois lados antes de atravessar.",
+        "Quem é maior tem a preferência."
+    ],
+    "Bear_Trap_Messages": [
+        "Armadilha de Urso falhou",
+        "Não deveria ter ficado ali parado.",
+        "Deveria ter olhado onde pisava",
+        "Agora tem uma joia nova.",
+        "Eu pareço um urso?"
+    ],
+    "Land_Mine_Messages": [
+        "Boom!!",
+        "Não deveria ter ficado ali parado.",
+        "Aquilo parece uma mina?!",
+        "Pior do que pisar em um lego.",
+        "Quem colocou aquilo ali!!"
+    ],
+    "Animal_Messages": [
+        "Foi dilacerado até a morte.",
+        "Não alimente a vida selvagem.",
+        "Tão ruim",
+        "Corra mais rápido"
+    ],
+    "Unknown_Messages": [
+        "Morreu de causa desconhecida.",
+        " Morreu, mas não sabemos o porquê."
+    ],
+    "Grenade_Messages": [
+        "Tentou pegar a granada.",
+        "Perdeu no jogo do pega-quente.",
+        "Falha no passa o pacote.",
+        "Deveria ter se mexido."
+    ],
+    "Melee_Messages": [
+        "Morreu na luta.",
+        "Morreu espetado.",
+        "Tente desviar"
+    ],
+    "Hunger_Messages": [
+        "Não conseguiu encontrar comida.",
+        "Espero que não tenham comido aquela fruta mofada.",
+        "Tente pescar?!"
+    ],
+    "Thirst_Messages": [
+        "Não bebeu água o suficiente.",
+        " talvez beber aquilo tenha sido uma má ideia.",
+        "Próxima vez, bolsa de soro?"
+    ],
+    "Falling_Messages": [
+        "Aquela foi uma queda maior do que pensava.",
+        "Não trouxe as botas de portal.",
+        "A água é mais macia do que as pedras",
+        "Não é o Super-Homem",
+        "Modo panqueca ativado"
+    ],
+    "Chemical_Poisen_Messages": [
+        "Aquela máscara de gás não era a melhor",
+        "Quem soltou um peido? WTF?!!",
+        "Não suportou o fedor",
+        "Arrume equipamento melhor"
+    ],
+    "Heat_Exhaustion_Messages": [
+        "Foi cozido como uma batata assada",
+        "Por que os dedos dos pés estão tão quentes?",
+        "O que você achou que aconteceria?"
+    ],
+    "Hyperthermia_Messages": [
+        "Congelou até a morte.",
+        "Parece o Boneco de Neve Frosty.",
+        "Ascendeu à forma de picolé.",
+        "Só trabalho e sem diversão"
+    ],
+    "Bleeding_Messages": [
+        "Panos são mais importantes do que roupas.",
+        "Deveria ter enfaixado o corte mais rápido.",
+        "Só não seja cortado?!"
+    ],
+    "Punched_Messages": [
+        "Soco",
+        "Bofetada",
+        "Tapão",
+        "Surra"
+    ],
+    "Vehicle_Self_Kill_Messages": [
+        "Tirou a carteira de um cereal.",
+        "como não dirigir.",
+        "como eles fizeram isso?",
+        "Feche a porta da próxima vez.",
+        "Você não pode estacionar ali.",
+        "Só melhore."
+    ],
+    "Drowned_Messages": [
+        "Dorme com os peixes",
+        "Ganhou botas de concreto de presente",
+        "Flutuou como uma pedra",
+        "A natação canina não foi boa o suficiente",
+        "Seleção natural no seu melhor."
+    ]
+}

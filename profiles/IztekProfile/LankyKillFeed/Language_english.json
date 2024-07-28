@@ -1,0 +1,193 @@
+{
+    "Killed_Message": "Killed",
+    "Hunger_Message": "Hunger",
+    "Thirst_Message": "Thirst",
+    "Falling_Message": "Fall",
+    "Chemical_Poison_Message": "Chemical: Poison",
+    "Heat_Exhaustion_Message": "Heat Exhaustion",
+    "Hyperthermia_Message": "Hypothermia",
+    "Blood_Loss_Message": "Exsanguination",
+    "Killer_Message": "Killer",
+    "Suicided_Message": "Suicided",
+    "Victim_Message": "Victim",
+    "Kill_Details_Message": "Kill Details",
+    "Weapon_Message": "Weapon: ",
+    "With_Message": "with",
+    "M_Message": "M",
+    "Zombie_Message": "Zombie",
+    "Vehicle_Message": "Vehicle:",
+    "Cuts_Message": "Cut(s)",
+    "Drowned_Message": "Drowned",
+    "Depth_Message": "Depth",
+    "Fell_Message": "Fell",
+    "Crashed_Message": "Crashed",
+    "Kmh_Message": "km/h",
+    "C_Message": "°c",
+    "Body_temperature_Message": "Body temperature",
+    "Suicide_Messages": [
+        "Had enough of life.",
+        "Gave up on Dayz.",
+        "Spat their dummy out.",
+        "Went to the Dark Side.",
+        "Contemplated life and then thought sod it.",
+        "Spanked their monkey for the last time.",
+        "Threw the towel in.",
+        "Did not like the spawn location?",
+        "Why cant I get the bloody spawn I want???",
+        "why the hell did I spawn here AGAIN!"
+    ],
+    "Zombie_Names": [
+        " Bitey Boothy",
+        "Old Man Jingo",
+        "Bob the Butcher",
+        "Mrs Tibbs",
+        "Mr Corpse",
+        "Mrs toothless",
+        "Crusty old Ringo",
+        "Miss Ankle Biter",
+        "Mrs Miggin's",
+        "Timmy!!!",
+        "Jimmy the neck nibbler",
+        "Death Dealer Del Boy",
+        "Shambling Rodney",
+        "Brain dead Trigger",
+        "Granny Smith",
+        "Barry the Baptist",
+        "Rott Wilder",
+        "Austin Powers",
+        "Barry Mannilow",
+        "Celine Deadon",
+        "Ed",
+        "Michael eat It Jackson",
+        "Vicar of Deadly",
+        "Skull Cracker Isaiah",
+        "The Hungry One",
+        "The Groaner",
+        "Graveyard Betty",
+        "Harold Bitemark",
+        "Lanky the Lifeless",
+        "Chrystal no brain",
+        "Limbo Pete",
+        "Reanimated Poolie",
+        "Some Fat Scots Bloke",
+        "Rhys death by Halitosis",
+        "Punch the undead Unicorn"
+    ],
+    "Zombie_Kill_Messages": [
+        "Was eaten alive.",
+        "Did not survive the Zombie apocalypse.",
+        "Must have been afk.",
+        "Bit off more than they could chew.",
+        "Got their arse kicked by the undead.",
+        "OOOOooooofff.",
+        "Must have been surrounded.",
+        "Did not close the door behind them.",
+        "Is definitely no Shaun of the Dead.",
+        " 28 Days later ? nahh more like 2 mins later.",
+        "Is now a zombie buffett.",
+        "Skill issue."
+    ],
+    "Vehicle_Kill_Messages": [
+        "Is now road kill.",
+        "0 - Vehicle 1.",
+        "Played chicken and lost.",
+        "Did not look both ways before crossing.",
+        "Bigger has right of way."
+    ],
+    "Bear_Trap_Messages": [
+        "Bear Trap fail",
+        "Shouldn't have stood there.",
+        "Should have looks were they walked",
+        "Has new jewellery.",
+        "Do I look like a bear!!"
+    ],
+    "Land_Mine_Messages": [
+        "Went Boom !!",
+        "Shouldn't have stood there.",
+        "That looks like a mine?!",
+        "Thats worse than walking on lego.",
+        "Who put that their!!"
+    ],
+    "Animal_Messages": [
+        "Was mauled to death.",
+        "Do not feed the wildlife.",
+        "So bad",
+        "Run faster"
+    ],
+    "Unknown_Messages": [
+        "Died from unknown cause.",
+        " Died but we dont know why."
+    ],
+    "Grenade_Messages": [
+        "Tried to catch the Grenade.",
+        "Lost at hot potato",
+        "Pass the parcel fail.",
+        "Should have moved."
+    ],
+    "Melee_Messages": [
+        "Boxed to death.",
+        "Poked to death.",
+        "Try dodging"
+    ],
+    "Hunger_Messages": [
+        "Couldn't find any food.",
+        "Hope they didn't eat that moldy fruit.",
+        "Try fishing?!"
+    ],
+    "Thirst_Messages": [
+        "Did not drink enough water.",
+        " maybe dringing that was a bad idea.",
+        "Saline bag's next time?"
+    ],
+    "Falling_Messages": [
+        "That was a bigger drop than they though.",
+        "Did not bring their portal boots.",
+        "Water is softer than rocks",
+        "Face planted.",
+        "Is no super man",
+        "Pancake mode enabled"
+    ],
+    "Chemical_Poisen_Messages": [
+        "That gasmask was not the best",
+        "Who farted WTF?!!",
+        "Could not stand the stink",
+        "Get better gear"
+    ],
+    "Heat_Exhaustion_Messages": [
+        "Was cooked like a baked potato",
+        "Why are my toes so toasty?",
+        "What did you think would happen?"
+    ],
+    "Hyperthermia_Messages": [
+        "Froze to death.",
+        "Looks like frosty the snowman.",
+        "Has acended to popsicle form.",
+        "All work and no play"
+    ],
+    "Bleeding_Messages": [
+        "Rags are more important than clothes.",
+        "Should have wrapped that cut quicker.",
+        "Just don't get cut?!"
+    ],
+    "Punched_Messages": [
+        "Punched",
+        "Boxed",
+        "Slapped",
+        "Beat down"
+    ],
+    "Vehicle_Self_Kill_Messages": [
+        "Got thier license from a box of cereal.",
+        "how not to drive.",
+        "how did they do that?",
+        "Close the door next time.",
+        "You can't park there.",
+        "Just get good."
+    ],
+    "Drowned_Messages": [
+        "Is sleeping with the fishes",
+        "Was gifted concreate boots",
+        "Floated like a rock",
+        "Doggy paddle was not good enough",
+        "Natural selection at its best."
+    ]
+}

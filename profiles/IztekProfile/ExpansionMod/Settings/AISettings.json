@@ -1,6 +1,6 @@
 {
   "m_Version": 10,
-  "AccuracyMin": 0.85,
+  "AccuracyMin": 0.75,
   "AccuracyMax": 0.95,
   "ThreatDistanceLimit": 1000.0,
   "NoiseInvestigationDistanceLimit": 500.0,
