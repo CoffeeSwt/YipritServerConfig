@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
     <message>
-        <deadline>10</deadline>
+        <deadline>360</deadline>
         <shutdown>1</shutdown>
         <!-- <text>#name will shutdown in #tmin minutes.</text> -->
         <text>服务器将在 #tmin分钟后关闭重启，请在即将重启前安全下线避免存档丢失</text>
