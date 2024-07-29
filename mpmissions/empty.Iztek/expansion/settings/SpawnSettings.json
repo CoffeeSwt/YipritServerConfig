@@ -1,0 +1,143 @@
+{
+  "m_Version": 7,
+  "SpawnLocations": [
+    {
+      "Name": "中部复活点1",
+      "Positions": [
+        [3899.834229, 14.84112, 690.124084],
+        [0.287957, 0.035274, 0.956993]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "中部复活点2",
+      "Positions": [
+        [5271.227539, 9.879884, 684.599426],
+        [0.515301, 0.173678, 0.839226]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "西部复活点",
+      "Positions": [
+        [2519.115967, 2.76911, 946.993835],
+        [0.976323, 0.16013, 0.145435]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "东部复活点",
+      "Positions": [
+        [6808.164063, 5.33131, 932.40863],
+        [0.061636, 0.152434, 0.98639]
+      ],
+      "UseCooldown": 1
+    },
+    {
+      "Name": "内陆复活点",
+      "Positions": [
+        [4395.142578, 4.25438, 1735.189453],
+        [0.769431, 0.083294, 0.633276]
+      ],
+      "UseCooldown": 1
+    }
+  ],
+  "StartingClothing": {
+    "EnableCustomClothing": 1,
+    "SetRandomHealth": 1,
+    "Headgear": [],
+    "Glasses": [],
+    "Masks": [],
+    "Tops": [
+      "Shirt_BlueCheck",
+      "Shirt_BlueCheckBright",
+      "Shirt_GreenCheck",
+      "Shirt_PlaneBlack",
+      "Shirt_RedCheck",
+      "Shirt_WhiteCheck"
+    ],
+    "Vests": [],
+    "Gloves": [],
+    "Pants": [
+      "Jeans_Black",
+      "Jeans_Blue",
+      "Jeans_BlueDark",
+      "Jeans_Brown",
+      "Jeans_Green",
+      "Jeans_Grey"
+    ],
+    "Belts": [],
+    "Shoes": [
+      "AthleticShoes_Blue",
+      "AthleticShoes_Grey",
+      "AthleticShoes_Brown",
+      "AthleticShoes_Green",
+      "AthleticShoes_Black"
+    ],
+    "Armbands": [],
+    "Backpacks": []
+  },
+  "EnableSpawnSelection": 1,
+  "SpawnOnTerritory": 1,
+  "StartingGear": {
+    "EnableStartingGear": 1,
+    "ApplyEnergySources": 1,
+    "SetRandomHealth": 1,
+    "UpperGear": [
+      {
+        "ClassName": "Rag",
+        "Quantity": 4,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Apple",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Roadflare",
+        "Quantity": -1,
+        "Attachments": []
+      },
+      {
+        "ClassName": "SteakKnife",
+        "Quantity": 5,
+        "Attachments": []
+      },
+      {
+        "ClassName": "Heatpack",
+        "Quantity": -1,
+        "Attachments": []
+      }
+    ],
+    "PantsGear": [],
+    "BackpackGear": [],
+    "VestGear": [],
+    "PrimaryWeapon": {},
+    "SecondaryWeapon": {}
+  },
+  "UseLoadouts": 0,
+  "MaleLoadouts": [
+    {
+      "Loadout": "PlayerSurvivorLoadout",
+      "Chance": 1.0
+    }
+  ],
+  "FemaleLoadouts": [
+    {
+      "Loadout": "PlayerSurvivorLoadout",
+      "Chance": 1.0
+    }
+  ],
+  "SpawnHealthValue": 100.0,
+  "SpawnEnergyValue": 500.0,
+  "SpawnWaterValue": 500.0,
+  "EnableRespawnCooldowns": 1,
+  "RespawnCooldown": 300,
+  "TerritoryRespawnCooldown": 1800,
+  "PunishMultispawn": 1,
+  "PunishCooldown": 120,
+  "PunishTimeframe": 300,
+  "CreateDeathMarker": 1,
+  "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}
